@@ -1,0 +1,13 @@
+map,algorithm,found,status,cost,generated,expanded,peak,median_ms
+main,BFS,True,found,39,494,478,20,2.6739
+main,DFS,True,found,301,1372,1135,553,9.2169
+main,UCS,True,found,39,494,478,20,4.9192
+main,IDS,True,found,39,35284,32127,76,257.2933
+detour,BFS,True,found,14,31,30,4,0.1627
+detour,DFS,True,found,14,27,18,9,0.1182
+detour,UCS,True,found,14,31,30,4,0.2597
+detour,IDS,True,found,14,317,266,9,2.358
+blocked,BFS,False,unreachable,,15,15,4,0.0514
+blocked,DFS,False,unreachable,,15,15,5,0.0794
+blocked,UCS,False,unreachable,,15,15,4,0.0733
+blocked,IDS,False,unreachable,,185,160,5,0.9393
